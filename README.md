@@ -4,7 +4,7 @@
 <img width="200" src="https://github.com/Malcom98/WEBSITE_PICTURES-Somorders_Restaurants/blob/master/Restaurant-Logo-Vector-Design.png" />
 </p>
 <hr/>
-This was a *freelacing project*.
+This was a freelacing project.<br/>
 Code for this website is private due to client protection. 
 <hr/>
 <h3 align="center">Technology Stack</h3>
