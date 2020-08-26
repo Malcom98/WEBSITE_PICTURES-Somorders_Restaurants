@@ -41,7 +41,7 @@ This project was made for a client who wished to create a restaurant application
 <hr/>
 <h3 align="center">Master Administrator</h3>
 <p align="center">
-   <p align="justify">Master Administrator is able to add / update / delete restaurants from the application. Restaurant informations are name and logo. Master administrator is also able to add /   update / delete restaurant admins and manage usernames & passwords.</p><br/><br/>
+   Master Administrator is able to add / update / delete restaurants from the application. Restaurant informations are name and logo. Master administrator is also able to add /   update / delete restaurant admins and manage usernames & passwords.<br/><br/>
   <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Somorders_Restaurants/blob/master/MasterAdministrator_Restaurants.jpg"><br/>
   <b>Image 1 - Master Administrator - Restaurants Panel </b>
   <br/><br/>
@@ -52,7 +52,7 @@ This project was made for a client who wished to create a restaurant application
 <hr/>
 <h3 align="center">Restaurant Administrator</h3>
 <p align="center">
-  <p align="justify">Restaurant Administrator is able to add / update / delete his employees which can be: Salesperson, Kitchen worker and TVs. Restaurant administrator is also able to edit his restaurant credentials (name, logo) and see statistics of restaurant on graph. Furthermore, Restaurant Administrator role can add / update / delete menus.</p><br/><br/>
+  Restaurant Administrator is able to add / update / delete his employees which can be: Salesperson, Kitchen worker and TVs. Restaurant administrator is also able to edit his restaurant credentials (name, logo) and see statistics of restaurant on graph. Furthermore, Restaurant Administrator role can add / update / delete menus.<br/><br/>
   <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Somorders_Restaurants/blob/master/RestaurantAdminsitrator_Employees.jpg"><br/>
   <b>Image 3 - Restaurant Administrator - Employees Panel </b>
   <br/><br/>
@@ -66,7 +66,7 @@ This project was made for a client who wished to create a restaurant application
 <hr/>
 <h3 align="center">Salesperson</h3>
 <p align="center">
-  <p align="justify">Salesperson role is employee that is selling menus to customers. It is consited of 2 panels: Sales panel and Orders panel. Sales panel allows salesperson employee to add / delete menus on order. Salesperson can increment or decrement quantity of menus on order. Salesperson can also add an additional custom article on order by typing it's name and price. Orders panel shows current orders and its statuses. Salesperson is able to search orders by customer name or order number. Salesperson can also set order status to "Order collected".</p><br/><br/>
+  Salesperson role is employee that is selling menus to customers. It is consited of 2 panels: Sales panel and Orders panel. Sales panel allows salesperson employee to add / delete menus on order. Salesperson can increment or decrement quantity of menus on order. Salesperson can also add an additional custom article on order by typing it's name and price. Orders panel shows current orders and its statuses. Salesperson is able to search orders by customer name or order number. Salesperson can also set order status to "Order collected".<br/><br/>
   <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Somorders_Restaurants/blob/master/Sales_Sale.jpg"><br/>
   <b>Image 6 - Salesperson - Sales Panel </b>
   <br/><br/>
@@ -77,7 +77,7 @@ This project was made for a client who wished to create a restaurant application
 <hr/>
 <h3 align="center">Kitchen</h3>
 <p align="center">
-  <p align="justify">Kitchen role receives orders from kitchen. Kitchen has only one panel: Orders panel. Orders panel shows all orders and its statuses. Kitchen role can change order statuses to: "Pending", "Accepted", "Rejected", "Out of Stock" and "Order ready".</p><br/><br/>
+  Kitchen role receives orders from kitchen. Kitchen has only one panel: Orders panel. Orders panel shows all orders and its statuses. Kitchen role can change order statuses to: "Pending", "Accepted", "Rejected", "Out of Stock" and "Order ready".<br/><br/>
   <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Somorders_Restaurants/blob/master/Kitchen_Orders.jpg"><br/>
   <b>Image 8 - Kitchen - Orders Panel </b>
   <br/><br/>
@@ -88,7 +88,7 @@ This project was made for a client who wished to create a restaurant application
 <hr/>
 <h3 align="center">TV</h3>
 <p align="center">
-  <p align="justify">TV Role represents big screen that shows 3 types of orders: "Pending", "Accepted" and "Ready to collect" orders. Each time an order status becomes "Pending", "Accepted" or "Ready to collect", a sound is played so customers get informed about order change.</p><br/><br/>
+  TV Role represents big screen that shows 3 types of orders: "Pending", "Accepted" and "Ready to collect" orders. Each time an order status becomes "Pending", "Accepted" or "Ready to collect", a sound is played so customers get informed about order change.<br/><br/>
   <img src="https://github.com/Malcom98/WEBSITE_PICTURES-Somorders_Restaurants/blob/master/TV.jpg"><br/>
   <b>Image 10 - TV - Orders Panel </b>
   <br/><br/>
